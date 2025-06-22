@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img.png" alt="ATOUS OWASP Pentest Suite" width="320"/>
+</p>
+
 # ATOUS OWASP Pentest Suite
 
 ![Version](https://img.shields.io/badge/version-2.0.0--improved-blue)
