@@ -196,14 +196,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Atous Technology Systems**
 - Version: 2.0.0-improved
 - Date: 2025-06-22
-
-## 📚 Documentation and Resources
-
-For more information about the vulnerabilities tested, refer to:
-- [OWASP Top 10](https://owasp.org/www-project-top-10/)
-- [OWASP API Security Top 10](https://owasp.org/www-project-api-security/)
-- [OWASP WebSocket Security](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/11-Client_Side_Testing/10-Testing_WebSockets)
-
 ---
 
 Remember to always conduct security testing responsibly and only on systems you have permission to test.
