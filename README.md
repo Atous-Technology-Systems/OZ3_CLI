@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.png" alt="ATOUS OWASP Pentest Suite" width="320"/>
+  <img src="img.png" alt="ATOUS OWASP Pentest Suite" width="600"/>
 </p>
 
 # ATOUS OWASP Pentest Suite
